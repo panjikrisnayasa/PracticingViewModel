@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticingViewModel</string>
+    <string name="main_text_info">This app getting data from OpenWeather API</string>
+    <string name="main_text_example">City id example:\nDenpasar = 1645528\nMalang = 1636722</string>
+    <string name="main_edit_city_id">Input your city ID</string>
+    <string name="main_button_weather_forecast">Weather Forecast</string>
+    <string name="item_weather_text_city">City: %s</string>
+    <string name="item_weather_text_current_weather">Current weather: %s</string>
+    <string name="item_weather_text_description">Description: %s</string>
+    <string name="item_weather_text_temperature">Temperature: %s</string>
+    <string name="item_weather_text_humidity">Humidity: %s</string>
+    <string name="main_text_city_id_not_found">City ID not found</string>
+</resources>
